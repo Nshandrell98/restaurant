@@ -1,0 +1,97 @@
+.nav{
+    background: #de493c;
+    text-align: right;
+    padding: 10px;
+}
+.nav li{
+    list-style: none;
+    display: inline;
+    margin-left: 5px;
+    color: #fff;
+}
+.logo h1{
+    padding: 15px;
+}
+.mm {
+    background: #de493c;
+    background: linear-gradient(to bottom, #ff6153 50%,#de493c 100%);
+    color: #fff;
+    padding-bottom: 20px;
+}
+.mm ul{
+    margin-top: 40px;
+}
+.mm li {
+    list-style: none;
+    display: inline;
+    color: #fff;
+    padding: 10px;
+    padding-top: 20px;
+
+}
+.mm li a {
+    color: #fff;
+    text-decoration: none;
+    padding-top: 20px;
+}
+.mm li a:hover{
+    background-color: #fcf7cf;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+.search {
+    background: #fcf7cf;
+    color: #692d29
+}
+.sb {
+    padding-top: 20px;
+}
+.bottompics{
+    background: #f5efdc;
+}
+.ip {
+    margin-top: 20px;
+}
+.rsv {
+    background: #f7f4e9;
+    
+}
+.rsv h2 {
+    color: #692d29;
+    font-style: italic;
+}
+.rsv i{
+    float: left;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+.rsv i,.rsv h4, .rsv h6 {
+    color: #999e03;
+}
+.clogo {
+    background: #63635c;
+    padding-top: 10px;
+}
+.clogo img{
+    margin-right: 30px;
+}
+.clogo ul li{
+    display: inline;
+    border-right: 1px solid #878787;
+    margin-right: 30px;
+    align-items: center; 
+
+}
+.bottom {
+    background: #4d4c48;
+    color:#fff;
+}
+.bottom p{
+    color: #bbbbbb;
+}
+.copyright {
+    background: #403f38;
+    color: #fff;
+}
