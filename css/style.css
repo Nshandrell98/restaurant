@@ -11,6 +11,7 @@
 }
 .logo h1{
     padding: 15px;
+    font-weight: 800
 }
 .mm {
     background: #de493c;
@@ -61,6 +62,7 @@
 .rsv h2 {
     color: #692d29;
     font-style: italic;
+    font-weight: 600
 }
 .rsv i{
     float: left;
@@ -69,6 +71,9 @@
 }
 .rsv i,.rsv h4, .rsv h6 {
     color: #999e03;
+}
+.lp{
+    border: none;
 }
 .clogo {
     background: #63635c;
@@ -88,10 +93,24 @@
     background: #4d4c48;
     color:#fff;
 }
-.bottom p{
+.bottom p, .bottom li{
     color: #bbbbbb;
 }
 .copyright {
     background: #403f38;
     color: #fff;
+}
+.aboutp {
+    background: #fff;
+    padding: 10px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    color: rgb(85, 85, 85);
+}
+.aboutp h2, .aboutp h4{
+    color: #b60c00;
+    font-weight: 700
+}
+.pics img{
+    margin-top: 20px;
 }
